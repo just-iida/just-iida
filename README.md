@@ -1,4 +1,4 @@
-[![iida's GitHub stats](https://github-readme-stats.vercel.app/api?username=iida)](https://github.com/anuraghazra/github-readme-stats)
+[![iida's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-iida)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **just-iida/just-iida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
