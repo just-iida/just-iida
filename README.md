@@ -1,3 +1,6 @@
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd1dc&text=Iida's%20silly%20github&height=150&fontSize=60&desc=uwu&descAlignY=75&descAlign=60)
+
+
 [![iida's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-iida&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-iida&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
