@@ -16,13 +16,13 @@ num_epochs: 1  # Adjust based on dataset and max_steps
 max_steps: 1000
 learning_rate: 3e-4
 lr_scheduler_type: "cosine"
-optimizer: adamw
+optimizer: adamw_bnb_8bit
 
 logging_steps: 10
 save_steps: 100
 eval_steps: 100
 warmup_steps: 100
-fp16: true
+fp16: true  # Change to bf16 if required
 train_on_inputs: false
 group_by_length: true
 gradient_checkpointing: true
