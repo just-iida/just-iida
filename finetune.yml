@@ -10,6 +10,7 @@ datasets:
 val_set_size: 0.02
 output_dir: "/output/model"
 gradient_accumulation_steps: 16
+micro_batch_size: 2
 sequence_len: 1024
 num_epochs: 1  # Adjust based on dataset and max_steps
 max_steps: 1000
